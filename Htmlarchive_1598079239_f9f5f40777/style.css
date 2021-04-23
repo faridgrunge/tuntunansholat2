@@ -30,7 +30,7 @@ h3 {
   font-size: 22px;
   margin-bottom: 10px;
   text-align: center;
-  background-color: #52734d;
+  background-color: #566ef3;
   border-style: solid;
   border-bottom: double #666;
   border-top: double;
@@ -47,7 +47,7 @@ h3 {
 }
 
 #simple li {
-  background: #91c788;
+  background: #4e31f5;
   border-bottom: 7px solid #fff;
   list-style: none;
   padding: 0.5em;
@@ -55,7 +55,7 @@ h3 {
 }
 
 #simple li:hover {
-  background: #bcf1e1;
+  background: #2765d6;
 }
 
 #simple li a {
